@@ -1,0 +1,14 @@
+{
+  "name": "genzcoders-smart-canteen",
+  "version": "1.0.0",
+  "description": "Full Stack Smart School Canteen Application",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
+}
